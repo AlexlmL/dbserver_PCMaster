@@ -7,21 +7,16 @@
       "price": 1500,
       "stock": 10,
       "provider_id": 1,
-      "image": {
-        "main": "https://i.postimg.cc/tg3Jy3Gq/image-bb448f04792d4d239f677d3b16c144a9.png",
-        "secondary": []
-      },
+      "image": "https://i.postimg.cc/tg3Jy3Gq/image-bb448f04792d4d239f677d3b16c144a9.png",
       "ratings": 5,
-      "categories": {
-        "type": "Graphic Card",
-        "subType": "Juegos"
-      },
-      "attributes": {
-        "memory": "8GB",
-        "type": "GDDR6",
-        "clockSpeed": "2000 MHz",
-        "color": "Black"
-      },
+      "model": "RTX 3080",
+      "color": "Black",
+      "dimensions": "11.2 x 4.4 inches",
+      "material": "Metal",
+      "weight": "2.1 lbs",
+      "category_type": "Graphic Card",
+      "category_subType": "Juegos",
+      "category_brand": "NVIDIA",
       "country": "USA"
     },
     {
@@ -31,21 +26,16 @@
       "price": 200,
       "stock": 1000,
       "provider_id": 2,
-      "image": {
-        "main": "https://i.postimg.cc/bv5h7dsy/GPU-vs-tarjeta-gr-fica-edit.png",
-        "secondary": []
-      },
+      "image": "https://i.postimg.cc/bv5h7dsy/GPU-vs-tarjeta-gr-fica-edit.png",
       "ratings": 3,
-      "categories": {
-        "type": "Graphic Card",
-        "subType": "Trabajo"
-      },
-      "attributes": {
-        "memory": "4GB",
-        "type": "GDDR5",
-        "clockSpeed": "1500 MHz",
-        "color": "Green"
-      },
+      "model": "GTX 1650",
+      "color": "Green",
+      "dimensions": "9.0 x 3.5 inches",
+      "material": "Plastic",
+      "weight": "1.2 lbs",
+      "category_type": "Graphic Card",
+      "category_subType": "Trabajo",
+      "category_brand": "NVIDIA",
       "country": "USA"
     },
     {
@@ -55,21 +45,16 @@
       "price": 170,
       "stock": 0,
       "provider_id": 1,
-      "image": {
-        "main": "https://i.postimg.cc/0yNh9Pgb/C-mo-entender-las-especificaciones-de-la-tarjeta-gr-fica-3.jpg",
-        "secondary": []
-      },
+      "image": "https://i.postimg.cc/0yNh9Pgb/C-mo-entender-las-especificaciones-de-la-tarjeta-gr-fica-3.jpg",
       "ratings": 4,
-      "categories": {
-        "type": "Graphic Card",
-        "subType": "Diseño"
-      },
-      "attributes": {
-        "memory": "2GB",
-        "type": "GDDR5",
-        "clockSpeed": "1200 MHz",
-        "color": "Red"
-      },
+      "model": "GTX 1050",
+      "color": "Red",
+      "dimensions": "8.5 x 3.0 inches",
+      "material": "Plastic",
+      "weight": "1.0 lbs",
+      "category_type": "Graphic Card",
+      "category_subType": "Diseño",
+      "category_brand": "NVIDIA",
       "country": "Taiwan"
     },
     {
@@ -79,21 +64,16 @@
       "price": 80,
       "stock": 150,
       "provider_id": 3,
-      "image": {
-        "main": "https://i.postimg.cc/k5Z1JCnv/ram.png",
-        "secondary": []
-      },
+      "image": "https://i.postimg.cc/k5Z1JCnv/ram.png",
       "ratings": 5,
-      "categories": {
-        "type": "RAM",
-        "subType": "Juegos"
-      },
-      "attributes": {
-        "memory": "16GB",
-        "type": "DDR4",
-        "clockSpeed": "3200 MHz",
-        "color": "Black"
-      },
+      "model": "Corsair Vengeance LPX",
+      "color": "Black",
+      "dimensions": "5.3 x 1.7 inches",
+      "material": "Plastic",
+      "weight": "0.2 lbs",
+      "category_type": "RAM",
+      "category_subType": "Juegos",
+      "category_brand": "Corsair",
       "country": "USA"
     },
     {
@@ -103,21 +83,16 @@
       "price": 120,
       "stock": 80,
       "provider_id": 4,
-      "image": {
-        "main": "https://i.postimg.cc/V6rhn67h/placa-madre.webp",
-        "secondary": []
-      },
+      "image": "https://i.postimg.cc/V6rhn67h/placa-madre.webp",
       "ratings": 4,
-      "categories": {
-        "type": "Motherboard",
-        "subType": "Trabajo"
-      },
-      "attributes": {
-        "formFactor": "ATX",
-        "socket": "LGA 1151",
-        "memorySupport": "Max 64GB",
-        "color": "Black"
-      },
+      "model": "MSI Z490-A Pro",
+      "color": "Black",
+      "dimensions": "12 x 9.6 inches",
+      "material": "Metal",
+      "weight": "3.0 lbs",
+      "category_type": "Motherboard",
+      "category_subType": "Trabajo",
+      "category_brand": "MSI",
       "country": "USA"
     },
     {
@@ -127,21 +102,16 @@
       "price": 150,
       "stock": 200,
       "provider_id": 5,
-      "image": {
-        "main": "https://i.postimg.cc/kgCdCxjg/ssd.webp",
-        "secondary": []
-      },
+      "image": "https://i.postimg.cc/kgCdCxjg/ssd.webp",
       "ratings": 4,
-      "categories": {
-        "type": "Storage",
-        "subType": "Trabajo"
-      },
-      "attributes": {
-        "capacity": "1TB",
-        "type": "SSD",
-        "formFactor": "2.5 inch",
-        "color": "Silver"
-      },
+      "model": "",
+      "color": "Silver",
+      "dimensions": "",
+      "material": "",
+      "weight": "",
+      "category_type": "Storage",
+      "category_subType": "Trabajo",
+      "category_brand": "",
       "country": "USA"
     },
     {
@@ -151,21 +121,16 @@
       "price": 100,
       "stock": 60,
       "provider_id": 6,
-      "image": {
-        "main": "https://i.postimg.cc/x1vF3h30/fuente-de-poder.webp",
-        "secondary": []
-      },
+      "image": "https://i.postimg.cc/x1vF3h30/fuente-de-poder.webp",
       "ratings": 5,
-      "categories": {
-        "type": "Power Supply",
-        "subType": "Juegos"
-      },
-      "attributes": {
-        "wattage": "750W",
-        "efficiency": "80+ Gold",
-        "modular": "Fully Modular",
-        "color": "Black"
-      },
+      "model": "",
+      "color": "Black",
+      "dimensions": "",
+      "material": "",
+      "weight": "",
+      "category_type": "Power Supply",
+      "category_subType": "Juegos",
+      "category_brand": "",
       "country": "USA"
     },
     {
@@ -175,21 +140,16 @@
       "price": 90,
       "stock": 200,
       "provider_id": 7,
-      "image": {
-        "main": "https://i.postimg.cc/25vjGzX1/teclado.webp",
-        "secondary": []
-      },
+      "image": "https://i.postimg.cc/25vjGzX1/teclado.webp",
       "ratings": 4,
-      "categories": {
-        "type": "Peripheral",
-        "subType": "Juegos"
-      },
-      "attributes": {
-        "switchType": "Cherry MX",
-        "backlight": "RGB",
-        "connection": "USB",
-        "color": "Black"
-      },
+      "model": "",
+      "color": "Black",
+      "dimensions": "",
+      "material": "",
+      "weight": "",
+      "category_type": "Peripheral",
+      "category_subType": "Juegos",
+      "category_brand": "",
       "country": "USA"
     },
     {
@@ -199,20 +159,16 @@
       "price": 30,
       "stock": 500,
       "provider_id": 8,
-      "image": {
-        "main": "https://i.postimg.cc/rF8dptZQ/mouse.webp",
-        "secondary": []
-      },
+      "image": "https://i.postimg.cc/rF8dptZQ/mouse.webp",
       "ratings": 4,
-      "categories": {
-        "type": "Peripheral",
-        "subType": "Trabajo"
-      },
-      "attributes": {
-        "dpi": "16000",
-        "connection": "Wired",
-        "color": "Black"
-      },
+      "model": "",
+      "color": "Black",
+      "dimensions": "",
+      "material": "",
+      "weight": "",
+      "category_type": "Peripheral",
+      "category_subType": "Trabajo",
+      "category_brand": "",
       "country": "Taiwan"
     },
     {
@@ -222,21 +178,16 @@
       "price": 200,
       "stock": 300,
       "provider_id": 9,
-      "image": {
-        "main": "https://i.postimg.cc/GpNY8hT9/monitor.webp",
-        "secondary": []
-      },
+      "image": "https://i.postimg.cc/GpNY8hT9/monitor.webp",
       "ratings": 4,
-      "categories": {
-        "type": "Monitor",
-        "subType": "Diseño"
-      },
-      "attributes": {
-        "resolution": "1920x1080",
-        "refreshRate": "60Hz",
-        "panelType": "IPS",
-        "color": "Black"
-      },
+      "model": "",
+      "color": "Black",
+      "dimensions": "",
+      "material": "",
+      "weight": "",
+      "category_type": "Monitor",
+      "category_subType": "Diseño",
+      "category_brand": "",
       "country": "USA"
     },
     {
@@ -246,20 +197,16 @@
       "price": 150,
       "stock": 150,
       "provider_id": 10,
-      "image": {
-        "main": "https://i.postimg.cc/HxhMMWJV/altavoces.jpg",
-        "secondary": []
-      },
+      "image": "https://i.postimg.cc/HxhMMWJV/altavoces.jpg",
       "ratings": 5,
-      "categories": {
-        "type": "Peripheral",
-        "subType": "Diseño"
-      },
-      "attributes": {
-        "power": "30W",
-        "type": "2.1 System",
-        "color": "Black"
-      },
+      "model": "",
+      "color": "Black",
+      "dimensions": "",
+      "material": "",
+      "weight": "",
+      "category_type": "Peripheral",
+      "category_subType": "Diseño",
+      "category_brand": "",
       "country": "Taiwan"
     },
     {
@@ -269,20 +216,16 @@
       "price": 50,
       "stock": 250,
       "provider_id": 11,
-      "image": {
-        "main": "https://i.postimg.cc/qvPZs03D/webcam.webp",
-        "secondary": []
-      },
+      "image": "https://i.postimg.cc/qvPZs03D/webcam.webp",
       "ratings": 4,
-      "categories": {
-        "type": "Peripheral",
-        "subType": "Trabajo"
-      },
-      "attributes": {
-        "resolution": "720p",
-        "connection": "USB",
-        "color": "Black"
-      },
+      "model": "",
+      "color": "Black",
+      "dimensions": "",
+      "material": "",
+      "weight": "",
+      "category_type": "Peripheral",
+      "category_subType": "Trabajo",
+      "category_brand": "",
       "country": "Taiwan"
     }
   ]
